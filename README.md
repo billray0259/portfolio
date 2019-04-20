@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/U4XzwnX.jpg" alt="Profile Picture" width=150> Bill Ray
+Bill Ray
 I am Bill
 
 
