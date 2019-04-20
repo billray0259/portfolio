@@ -2,7 +2,7 @@
 I am Bill
 
 
-## Broken Face Autoencoder
+## Face Autoencoder (Almost Works)
 * Interactive Python Notebook
 * Python-Tensorflow  
 Doesn't really work
