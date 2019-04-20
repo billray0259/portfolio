@@ -1,10 +1,10 @@
 # Bill Ray
-// TODO add bio
+<img src="https://i.imgur.com/QPMRqop.png" alt="Model input and outputs" width="150"/>
 
 
-## Face Autoencoder
+## Broken Face Autoencoder
 * Interactive Python Notebook
-* Python-Tensorflow
+* Python-Tensorflow  
 Doesn't really work
 <img src="https://i.imgur.com/4Y3YMG1.png" alt="Model input and outputs" width="100"/>
 
