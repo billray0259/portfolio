@@ -1,5 +1,5 @@
-# Bill Ray  
-<img src="https://i.imgur.com/U4XzwnX.jpg" alt="Model input and outputs" width="150"/>
+# <img src="https://i.imgur.com/U4XzwnX.jpg" alt="Model input and outputs" width="150"/> Bill Ray
+I am Bill
 
 
 ## Broken Face Autoencoder
