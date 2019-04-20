@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/U4XzwnX.jpg" alt="Model input and outputs" width="150"/> Bill Ray
+# <style="border-radius: 50%" img src="https://i.imgur.com/U4XzwnX.jpg" alt="Model input and outputs" width="150"/> Bill Ray
 I am Bill
 
 
