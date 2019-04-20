@@ -1,7 +1,4 @@
-# ![Profile Picture](https://i.imgur.com/U4XzwnX.jp#profile) Bill Ray
-img[src*="#profile"] {
-   boarder-radius: 50%
-}
+# ![Profile Picture](https://i.imgur.com/U4XzwnX.jp) Bill Ray
 I am Bill
 
 
