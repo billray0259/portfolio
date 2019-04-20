@@ -1,4 +1,9 @@
-# <img style="border-radius: 50%" src="https://i.imgur.com/U4XzwnX.jpg" alt="Profile Picture" width="150"/> Bill Ray
+<style>
+#profile_picture {
+  border-radius: 50%;
+}
+</style>
+# <img id="profile_picture src="https://i.imgur.com/U4XzwnX.jpg" alt="Profile Picture" width="150"/> Bill Ray
 I am Bill
 
 
