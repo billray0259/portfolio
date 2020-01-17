@@ -1,5 +1,4 @@
-Bill Ray
-I am Bill
+# This is not a comprehensive portfolio. I began adding interesting projects here but have not showcased many of the things I have worked on.
 
 
 ## Face Autoencoder (Almost Works)
